@@ -42,7 +42,10 @@ const group3 = [
     require('./assets/m.jpg'),
     require('./assets/h.jpg'),
 ]
-;<View>
+
+//...
+
+<View>
     <ImageTapper
         images={group0}
         imageWidth={'100%'}
@@ -62,7 +65,6 @@ const group3 = [
 ## Todo
 
 * [ ] add tests
-* [ ] option to
 
 # License
 
